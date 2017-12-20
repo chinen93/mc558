@@ -2,3 +2,7 @@
 
 - Professor : (Flávio Keidi Miyazawa)[https://www.ic.unicamp.br/~fkm/]
 
+# Laboratórios
+
+02. Encontrar Usuários em Rede Social Ligados por email.
+03. Segmentar Imagens.
